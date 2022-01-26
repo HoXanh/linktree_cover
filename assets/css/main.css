@@ -1,0 +1,48 @@
+
+.header-container {
+    display: block;
+    height: 28px;
+    border-bottom: 10px solid transparent;
+}
+
+.introduction-img {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.introduction-name {
+    line-height: 36px;
+    font-size: 32px;
+    margin: 14px 0 28px;
+    color: #fff;
+}
+
+.content-container {
+    display: block;
+    text-align: center;
+}
+
+.introduction-name {
+    font-size: 24px;
+}
+
+.contact-link-items > a {
+    display: block;
+    background-color: rgba(255,99,71,1);
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin: 24px 52px;
+    padding: 24px;
+    border: 1px solid black;
+}
+
+.contact-link-items > a:hover {
+    background-color: rgba(255, 99, 71, 0.8);
+}
+
+.footer-container {
+    display: block;
+    height: 28px;
+    border-top: 10px solid transparent;
+}
